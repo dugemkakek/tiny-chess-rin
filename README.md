@@ -1,8 +1,8 @@
-# tiny-chess-01 starter
+# Tiny Chess Search Engine
 
-A working entry to fork: `main.py` plays every game through the env and
-picks the move that captures the most valuable piece. It is a template,
-not a contender. Replace its one-line choice with a real search.
+A deterministic, self-contained Python chess engine for tiny-chess-01. It
+uses legal move generation, fixed-node alpha-beta search, quiescence captures,
+and a bounded transposition table through the competition environment.
 
 ## The size rule
 
