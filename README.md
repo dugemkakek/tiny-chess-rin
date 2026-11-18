@@ -1,3 +1,11 @@
+## make.fun bounty
+
+[![bounty](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/dugemkakek/tiny-chess-rin/rank.svg)](https://make.fun/bounty/tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/dugemkakek/tiny-chess-rin/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+
+Entry for the make.fun bounty: https://make.fun/bounty/tiny-chess-01
+
 # Tiny Chess Search Engine
 
 A deterministic, self-contained Python chess engine for tiny-chess-01. It
